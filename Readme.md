@@ -3,6 +3,10 @@
 
   Collection of regular expressions.
 
+## Installation
+
+    $ component install component/regexps
+
 ## API
 
   These are exported:
